@@ -13,8 +13,8 @@ site_name = "Documentation_particle_SEM_ana"
 nav = [
   { "Get started" = "index.md" },
   { "Markdown in 5min" = "markdown.md" },
-  { "Main Page" = "Public.md"}
-  { "README" = "readme.md"}
+  { "Main Page" = "Public.md" },
+  { "README" = "readme.md" },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
