@@ -1,10 +1,10 @@
 [project]
 site_url = "https://www.example.com/"
 site_name = "Documentation_particle_SEM_ana"
-# site_description = "Your project description"
+# site_description = "analayze particle size data from SEM pictures"
 # site_author = "Fabian Beer"
 
-# copyright = "Copyright &copy; 2026 Your name"
+# copyright = "Copyright &copy; 2026 Fabian Beer"
 
 # repo_url = "https://github.com/user/repo"
 # repo_name = "user/repo"
@@ -13,6 +13,8 @@ site_name = "Documentation_particle_SEM_ana"
 nav = [
   { "Get started" = "index.md" },
   { "Markdown in 5min" = "markdown.md" },
+  { "Main Page" = "Public.md"}
+  { "README" = "readme.md"}
 ]
 
 # extra_css = ["stylesheets/extra.css"]
